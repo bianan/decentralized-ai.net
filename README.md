@@ -17,7 +17,13 @@ Hopefully one can borrow theory from them to build fully decentralized algorithm
 - DSA: Decentralized double stochastic averaging gradient algorithm  
 2016 JMLR. Mokhtari, Aryan and Ribeiro, Alejandro.
 
+## Federated Learning \& Optimization
 
+This is one recent setting proposed to solve one existing decentralized data setting, 
+but the algorithms therein are still centralized algorithms. 
+
+- Communication-Efficient Learning of Deep Networks from Decentralized Data  
+2017 AISTATS. McMahan, Brendan and Moore, Eider and Ramage, Daniel and Hampson, Seth and y Arcas, Blaise Aguera
 
 
 ## Bitcoin
