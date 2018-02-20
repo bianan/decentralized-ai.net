@@ -25,29 +25,37 @@ but the algorithms therein are still centralized algorithms.
 - Communication-Efficient Learning of Deep Networks from Decentralized Data  
 2017 AISTATS. McMahan, Brendan and Moore, Eider and Ramage, Daniel and Hampson, Seth and y Arcas, Blaise Aguera
 
+## Gossip Algorithm
+
+- Randomized gossip algorithms  
+  2006 EEE transactions on information theory. Boyd, Stephen and Ghosh, Arpita and Prabhakar, Balaji and Shah, Devavrat
+  
+- Gossip algorithms  
+  2009 Foundations and Trends in Networking. Shah, Devavrat
 
 ## Bitcoin
 
-- Satoshi Nakamoto. 2008.  
-Bitcoin: A Peer-to-Peer Electronic Cash System.    
+- Bitcoin: A Peer-to-Peer Electronic Cash System.   
+  Satoshi Nakamoto. 2008.   
 https://bitcoin.org/bitcoin.pdf
 
 
-- Jawaheri, Husam Al and Sabah, Mashael Al and Boshmaf, Yazan and Erbad, Aimen. 2018.   
-When A Small Leak Sinks A Great Ship: Deanonymizing Tor Hidden Service Users Through Bitcoin Transactions Analysis.   
+- When A Small Leak Sinks A Great Ship: Deanonymizing Tor Hidden Service Users Through Bitcoin Transactions Analysis.    
+Jawaheri, Husam Al and Sabah, Mashael Al and Boshmaf, Yazan and Erbad, Aimen. 2018.     
 https://arxiv.org/pdf/1801.07501.pdf?utm_source=securitydailynews.com
 
 
 ## Ethereum
 
-- Wood, Gavin. 2014. Ethereum: A Secure Decentralized Generalised Transaction Leger
-EIP-150 Revision.   
+- Ethereum: A Secure Decentralized Generalised Transaction Leger  
+ Wood, Gavin. 2014.   
 http://gavwood.com/paper.pdf
 
 
 ## Interplanetary File System (IPFS)
 
-- Benet, Juan. 2014. IPFS-content addressed, versioned, P2P file system.   
+- IPFS-content addressed, versioned, P2P file system.    
+ Benet, Juan. 2014.    
 https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf
 
 
