@@ -25,6 +25,13 @@ but the algorithms therein are still centralized algorithms.
 - Communication-Efficient Learning of Deep Networks from Decentralized Data  
 2017 AISTATS. McMahan, Brendan and Moore, Eider and Ramage, Daniel and Hampson, Seth and y Arcas, Blaise Aguera
 
+## Mobile AI
+
+This is one emerging setting where one wants to learn an intelligent model for mobile devices, such as
+mobile phones, tablets etc. 
+
+
+
 ## Gossip Algorithm
 
 - Randomized gossip algorithms  
