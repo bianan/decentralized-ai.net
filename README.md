@@ -25,6 +25,11 @@ NIPS 2017. Xiangru Lian, Ce Zhang, Huan Zhang, Cho-Jui Hsieh, Wei Zhang, and Ji 
 - D^2: Decentralized training over decentralized data.   
 ICML 2018. Hanlin Tang, Xiangru Lian, Ming Yan, Ce Zhang, and Ji Liu. 
 
+## Decentralized Linear Learning
+
+- COLA: Decentralized Linear Learning  
+NIPS 2018. *Lie He, *An Bian, Martin Jaggi
+
 ## Federated Learning \& Optimization
 
 This is one recent setting proposed to solve one existing decentralized data setting, 
