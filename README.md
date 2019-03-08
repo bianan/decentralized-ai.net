@@ -17,6 +17,14 @@ Hopefully one can borrow theory from them to build fully decentralized algorithm
 - DSA: Decentralized double stochastic averaging gradient algorithm  
 2016 JMLR. Mokhtari, Aryan and Ribeiro, Alejandro.
 
+## Decentralized SGD
+
+- Can decentralized algorithms outperform centralized algorithms? a case study for decentralized parallel stochastic gradient descent.   
+NIPS 2017. Xiangru Lian, Ce Zhang, Huan Zhang, Cho-Jui Hsieh, Wei Zhang, and Ji Liu
+
+- D^2: Decentralized training over decentralized data.   
+ICML 2018. Hanlin Tang, Xiangru Lian, Ming Yan, Ce Zhang, and Ji Liu. 
+
 ## Federated Learning \& Optimization
 
 This is one recent setting proposed to solve one existing decentralized data setting, 
